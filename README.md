@@ -19,11 +19,10 @@ Welcome to my GitHub profile! I enjoy exploring technology, building useful proj
 - Expanding my knowledge across different technologies
 - Connecting and collaborating with other developers
 
-## GitHub activity
+## Explore my work
 
-![Isum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isumans&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isumans&layout=compact&theme=github_dark&hide_border=true)
+- [View my repositories](https://github.com/Isumans?tab=repositories)
+- [See my GitHub activity](https://github.com/Isumans)
 
 ## Connect with me
 
